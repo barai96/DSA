@@ -174,5 +174,6 @@ void main()
             break;
         default:
             printf("Invalid Selection\n\n");
+            break; 
     }
 }
